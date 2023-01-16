@@ -1,0 +1,3 @@
+D:/SelfDevelopment/Programming/CLionProjects/CPPTreeCalculator/cmake-build-debug/CMakeFiles/TreeCalculator.dir
+D:/SelfDevelopment/Programming/CLionProjects/CPPTreeCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SelfDevelopment/Programming/CLionProjects/CPPTreeCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+16	552	6956159296391400	CMakeFiles/TreeCalculator.dir/ExpressionTree.cpp.obj	d17dd58893e1d533
+15	284	6956159538601887	CMakeFiles/TreeCalculator.dir/main.cpp.obj	ad1546c3ca1c7a19
+2	458	6956159540343103	CMakeFiles/TreeCalculator.dir/InputParser.cpp.obj	72edb7a0ec89896d
+533	644	6956159542174551	TreeCalculator.exe	926ddc6aff763a3
+18	533	6956159541097435	CMakeFiles/TreeCalculator.dir/TreeCalculator.cpp.obj	8a26f972f2559b9c
+16	331	6956164080061119	CMakeFiles/TreeCalculator.dir/main.cpp.obj	3d19d91b8ecc8842
+2	521	6956164081952611	CMakeFiles/TreeCalculator.dir/InputParser.cpp.obj	d43a52840ac30f4e
+22	576	6956164082491162	CMakeFiles/TreeCalculator.dir/ExpressionTree.cpp.obj	8f03f98a33f40872
+19	582	6956164082560995	CMakeFiles/TreeCalculator.dir/TreeCalculator.cpp.obj	2afb9cc38d14b3ee
+583	691	6956164083637649	TreeCalculator.exe	926ddc6aff763a3
