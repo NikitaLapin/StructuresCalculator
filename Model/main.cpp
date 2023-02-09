@@ -1,4 +1,4 @@
-#include "TreeCalculator.h"
+#include "../Controller/TreeCalculator.h"
 
 int main() {
     TreeCalculator::runWorkCycle();
